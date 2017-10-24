@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/layout_eval_empty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:gravity="center"
+        android:minHeight="450dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:drawablePadding="6dp"
+            android:drawableTop="@mipmap/null_icon_common"
+            android:gravity="center"
+            android:text="@string/no_eval" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lv_evalinfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="#F5F5F5"
+        android:dividerHeight="10dp"
+        android:fastScrollEnabled="true"
+        android:scrollbars="none" />
+</LinearLayout>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ZProductInfo</string>
+    <string name="back_top">返回顶部</string>
+    <string name="add_shopping_cart">加入购物车</string>
+
+    <string name="current_price">现价</string>
+    <string name="old_price">原价</string>
+    <string name="taxes">税率</string>
+    <string name="product_title">商品标题</string>
+    <string name="specifications_choice">选择规格</string>
+    <string name="postage">邮费：</string>
+    <string name="ship_address">发货：</string>
+    <string name="after_sale">售后：</string>
+    <string name="rests">其他：</string>
+    <string name="productdetails_feature01">正品保障</string>
+    <string name="productdetails_feature02">低价直采</string>
+    <string name="productdetails_feature03">金牌服务</string>
+    <string name="productdetails_feature04">政府监督</string>
+    <string name="info_imgtext">图文详情</string>
+    <string name="info_photo">产品实拍</string>
+    <string name="info_eval">评价详情</string>
+    <string name="no_eval">暂无评论哦</string>
+</resources>
