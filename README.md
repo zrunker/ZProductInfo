@@ -1,7 +1,7 @@
 # ZProductInfo
 Android商品详情页实现，包括顶部滚动半透明渐变效果实现，流式布局的实现，顶部悬浮(ScrollView包裹ViewPager,ViewPager包裹Fragment,Fragment高度自适应)等相关功能。
 
->作者：邹峰立，微博：zrunker，邮箱：zrunker@yahoo.com，微信公众号：书客创作，个人平台：[www.ibooker.cc](http://www.ibooker.cc)。
+>微博：zrunker，邮箱：zrunker@yahoo.com，微信公众号：伴职，个人平台：[www.banzhi.cc](http://www.banzhi.cc)。
 
 >本文选自[书客创作](http://www.ibooker.cc)平台第68篇文章。[阅读原文](http://www.ibooker.cc/article/68/detail) 。
 
